@@ -1,6 +1,6 @@
-### Hi there 👋
+<h1 align="center"> Hi there 👋</h1>
 
-<h2 align="center">Just a little bit about myself!</2>
+<h2 align="center">Just a little bit about myself!</h2>
 
 <br><h3 align="center"> A football lover that's making his way into the programming business world.</h3>
 <br><h3 align="center"> Any thought, ideas or heads up? Let's talk anytime lads :D</h3>
